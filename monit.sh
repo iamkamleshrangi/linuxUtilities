@@ -12,8 +12,8 @@ check process mongos
 # Template 
 
 set mailserver smtp.gmail.com port 587 username "abc@gmail.com" password "abc@123" using tlsv1 with timeout 30 seconds
-set alert datadevteam@cubictree.com
-set alert prasad@joshsoftware.com
+set alert abc@kamlesh.com
+set alert kamlesh@kamlesh.com
 
 set mail-format {
    from:    monit@$HOST
