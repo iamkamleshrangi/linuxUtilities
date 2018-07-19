@@ -1,0 +1,7 @@
+limited,ltd
+private,pvt
+corporation,co,corp
+company,co
+industry,industries,ind
+finance,financial,fin
+communication,communications,com,comm
