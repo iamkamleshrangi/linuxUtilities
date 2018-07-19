@@ -1,8 +1,7 @@
-spaceingb=$1
 swapon --show
 free -h
 df -h
-fallocate -l spaceingbG /swapfile
+fallocate -l 1G /swapfile
 ls -lh /swapfile
 chmod 600 /swapfile
 ls -lh /swapfile
